@@ -1,3 +1,4 @@
 # Digits Recognizer
-Handwritten digits classifier with pytorch
+Handwritten digits classifier from MNIST database with pytorch
+
 https://www.kaggle.com/c/digit-recognizer
